@@ -8,8 +8,8 @@
 <div align="center" style="display: inline">
    <a href="https://github.com/Dimores">
    <div style="display: inline_block">
-      <img height="250" src="https://github-readme-stats.vercel.app/api?username=Dimores&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
-      <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimores&layout=compact&langs_count=7&theme=radical"/>
+      <img height="230" src="https://github-readme-stats.vercel.app/api?username=Dimores&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+      <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimores&layout=compact&langs_count=7&theme=radical"/>
    </div>
 </div>
 
