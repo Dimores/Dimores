@@ -3,12 +3,15 @@
 - 📚 I'm pursuing a Bachelor's degree in Computer Science.
 - 🎮 Studying to be a Game Developer
 
-<a href="https://github.com/Dimores">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dimores&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Dimores">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dimores&langs_count=20&layout=compact&theme=radical&card_width=400" />
-</a>
+
+<!--github stats-->
+<div align="center" style="display: inline">
+   <a href="https://github.com/Dimores">
+   <div style="display: inline_block">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dimores&show_icons=true&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dimores&langs_count=20&layout=compact&theme=radical&card_width=400" />
+   </div>
+</div>
 
 
 <div style="display: inline_block"><br>
