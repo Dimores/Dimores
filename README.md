@@ -1,9 +1,5 @@
 ## Hi, my name is Diego Morelo!
 
-- 📚 I'm pursuing a Bachelor's degree in Computer Science.
-- 🎮 Studying to be a Game Developer
-
-
 <!--github stats-->
 <div align="center" style="display: inline">
    <a href="https://github.com/Dimores">
